@@ -1,0 +1,23 @@
+body{
+  background-color: powderblue;
+}
+
+#banner {
+  width: 1500px;
+  height: 600px;
+  margin: inherit;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+p{
+  color: blue;
+  text-align: center;
+  font-size: 30px
+}
+ ol{
+  font-size: 100px
+  text-align:justify;
+ }
